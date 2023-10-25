@@ -8,4 +8,4 @@ const dateEl = document.createElement('div');
 dateEl.innerText = date;
 appDiv.appendChild(dateEl);
 //appDiv.innerHTML = `<h1>JS Starter</h1>`;
-//console.log(new Date())
+console.log('hello world!');
